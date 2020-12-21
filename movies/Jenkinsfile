@@ -10,7 +10,6 @@ pipeline {
     }
 
     environment {
-        //TODO: Customize these variables for your environment
         DEV_PROJECT = "norman-brass-de--movies-dev"
         STAGE_PROJECT = "norman-brass-de-movies-stage"
         APP_GIT_URL = "https://github.com/nbrass/DO288-apps"
