@@ -10,7 +10,7 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "norman-brass-de--movies-dev"
+        DEV_PROJECT = "norman-brass-de-movies-dev"
         STAGE_PROJECT = "norman-brass-de-movies-stage"
         APP_GIT_URL = "https://github.com/nbrass/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.eu45.prod.nextcle.com/repository/java"
